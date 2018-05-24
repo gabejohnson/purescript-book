@@ -1,0 +1,14 @@
+{
+  "name": "purescript-book-chapter11",
+  "set": "psc-0.11.7",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "maps",
+    "node-readline",
+    "sets",
+    "strings",
+    "transformers",
+    "psci-support",
+    "yargs"
+  ]
+}
